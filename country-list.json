@@ -295,7 +295,9 @@
         "iso_3": "BVT",
         "currency_code": "NOK",
         "continent": "Antarctica",
-        "continent_code": "AN"
+        "continent_code": "AN",
+        "dial_code": "+47",
+        "flag": "https:\/\/cdn.kcak11.com\/CountryFlags\/countries\/bv.svg"
     },
     {
         "name": "Brazil",
@@ -763,7 +765,9 @@
         "iso_3": "ATF",
         "currency_code": "EUR",
         "continent": "Antarctica",
-        "continent_code": "AN"
+        "continent_code": "AN",
+        "dial_code": "+262",
+        "flag": "https:\/\/cdn.kcak11.com\/CountryFlags\/countries\/tf.svg"
     },
     {
         "name": "Gabon",
@@ -941,7 +945,9 @@
         "iso_3": "HMD",
         "currency_code": "AUD",
         "continent": "Antarctica",
-        "continent_code": "AN"
+        "continent_code": "AN",
+        "dial_code": "+672",
+        "flag": "https:\/\/cdn.kcak11.com\/CountryFlags\/countries\/hm.svg"
     },
     {
         "name": "Holy See (Vatican City State}",
@@ -2309,7 +2315,9 @@
         "iso_3": "UMI",
         "currency_code": "USD",
         "continent": "Oceania",
-        "continent_code": "OC"
+        "continent_code": "OC",
+        "dial_code": "+1",
+        "flag": "https:\/\/cdn.kcak11.com\/CountryFlags\/countries\/um.svg"
     },
     {
         "name": "Uruguay",
@@ -2397,7 +2405,9 @@
         "iso_3": "ESH",
         "currency_code": "MAD",
         "continent": "Africa",
-        "continent_code": "AF"
+        "continent_code": "AF",
+        "dial_code": "+212",
+        "flag": "https:\/\/cdn.kcak11.com\/CountryFlags\/countries\/eh.svg"
     },
     {
         "name": "Yemen",
